@@ -1,0 +1,14 @@
+{
+    "name": "Pokomon",
+    "symbol": "TEST",
+    "description": "A series of custom card inspired by a certain anime",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

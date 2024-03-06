@@ -1,0 +1,14 @@
+{
+    "name": "JK First NFT",
+    "symbol": "TEST",
+    "description": "JK First ever NFT. This marks the milestone of JK web3 journey",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

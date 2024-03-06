@@ -1,0 +1,21 @@
+{
+    "number": 3,
+    "symbol": "TEST",
+    "sellerFeeBasisPoints": 500,
+    "isMutable": true,
+    "isSequential": false,
+    "ruleSet": null,
+    "creators": [
+        {
+            "address": "GwKWeDXLkBATWCJvbjtjrJE153tfHPmHgVEyKQTMZK55",
+            "share": 100
+        }
+    ],
+    "uploadMethod": "bundlr",
+    "awsConfig": null,
+    "nftStorageAuthToken": null,
+    "shdwStorageAccount": null,
+    "pinataConfig": null,
+    "hiddenSettings": null,
+    "guards": null
+}

@@ -1,0 +1,14 @@
+{
+    "name": "JK-Collection",
+    "symbol": "TEST",
+    "description": "A first of its kind",
+    "image": "collection.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

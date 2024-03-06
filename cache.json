@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "CFor2AovWU2geVwLV8dVM1GHcrJBeTQXJDfs1EuNiMHz",
+    "candyGuard": "",
+    "candyMachineCreator": "5w4QYekiepya11XXXRHCHCfqJHvW8gwbFps4jDp1x7Pc",
+    "collectionMint": "ByaT3QaKCoejBfx3P416TN6K6mHBnfgNp1WfK8XjZUQc"
+  },
+  "items": {
+    "-1": {
+      "name": "JK-Collection",
+      "image_hash": "a53db3556f44d6a91e244597cc52d26a260d386ea393545f6a643eee3427de2d",
+      "image_link": "https://arweave.net/HrJysBeL8VozDIFIFix4pEw1yjOjB3ZkL6EGLRgM7S8?ext=png",
+      "metadata_hash": "59d6a0c6d06871f80082c9a91f245002fa426988ec2aaae81705671a372ce870",
+      "metadata_link": "https://arweave.net/JtD3l08m2QvynTEUzzZdKxgRsT0i22d6K8jwPTCPa0U",
+      "onChain": true
+    },
+    "0": {
+      "name": "JK First NFT",
+      "image_hash": "7924418ebc33aa586e7874f3a9e2782bfe76913be3b3e3f3138967e09567e3ff",
+      "image_link": "https://arweave.net/w_Lj5oIZB2sFDYJ7nP9U_30pIfALwsd5Xo3zgZIwDpQ?ext=png",
+      "metadata_hash": "d00764722f718a8023ba555f8002f46a31821ad1cad964b4d3e0a1de15603323",
+      "metadata_link": "https://arweave.net/CCiQ4LzC9Cz8ojjmD3Xv9xYMl4SokEzEpEBBe-zpe6M",
+      "onChain": true
+    },
+    "1": {
+      "name": "Vestimon",
+      "image_hash": "6485caf9094d11dc12fe2f9781db7fb4508bb61cd0aac882e10a5ae09c90af60",
+      "image_link": "https://arweave.net/TGsuahxZwpcfqO9m9W2Phtw24rmM1HQ6ojmRnVwKGCg?ext=png",
+      "metadata_hash": "6b4bafea067abc7c351d7a18386b3472b6b2da320d49669ba867f7f30e1470f6",
+      "metadata_link": "https://arweave.net/M8UhfUxfqJNz87V_a6hVVY-UVbUllfVew4pyhT3byEg",
+      "onChain": true
+    },
+    "2": {
+      "name": "Pokomon",
+      "image_hash": "fc7408decec40d589be5f9ecba2309350e181455f7b5a9f7a60bebe54d71b7f6",
+      "image_link": "https://arweave.net/eDpg2N1aiVY_u30o8MvGNHVFALniFLpfclDMpExj8vc?ext=png",
+      "metadata_hash": "647582ac809ba375836d24abee47fa0684b2836af8ad49eb6f2ae4eaadd59c6a",
+      "metadata_link": "https://arweave.net/A0NqweIe5wQstzqThy8Oai9w2Fki4cGASzs3WSZsPyc",
+      "onChain": true
+    }
+  }
+}
